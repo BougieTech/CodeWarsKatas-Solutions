@@ -1,0 +1,13 @@
+//Given a number as an imput, print out every integer form 1 to that number. However, when the interger it divisible by 3, preint out "Fizz"; when it's divisible by 5, print out "Buzz"; when it's divislble by both 3 and 5, print out "Fizz Buzz".
+
+//PREP
+
+// num -> 1 to that num -> div 3 fizz; div 5 buz; div 3/5 fizz buzz
+//always in; pos; no floats; no funny biz; int always
+//print to console; notes
+
+fuction fizzBuzz(num){
+//loop 1 to num - for
+//conditional
+}
+
